@@ -1,3 +1,5 @@
+window.addEventListener("load", function(){
+
 document.getElementById("right").onclick = myFunction;
 function myFunction() {
 document.getElementsByClassName("title1")[0].style.display = "none";
@@ -13,3 +15,5 @@ document.getElementsByClassName("title1")[0].style.display = "block";
 document.getElementsByClassName("beta")[0].style.display = "none";
 document.getElementsByClassName("alpha")[0].style.display = "block";
 }
+
+});
