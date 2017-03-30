@@ -10,10 +10,9 @@ body{
 p{
  -webkit-font-smoothing: antialiased !important;
  text-rendering: optimizeLegibility !important;
- font-family:'nutanix_softregular',"proxima-nova-soft", san-serif;
+ font-family:'nutanix_softmedium',"proxima-nova-soft", san-serif;
  line-height:8px;
  font-size: 12px;
- font-weight:500;
  color: #6F787E;
 }
 .one {
@@ -37,7 +36,6 @@ p{
 
 }
 .header p{
-	font-weight:600;
 	margin:0px;
 	}
 
@@ -60,10 +58,10 @@ display:none;}
   flex-grow:1;
   text-align:center;
 	align-self: center;
-  font-weight:600;
 	line-height:48px;
   font-size:24px;
   color: #CC6164;
+  font-family:'nutanix_softthin',"proxima-nova-soft", san-serif;
 }
 .main p:hover {
   color:#C25659;
