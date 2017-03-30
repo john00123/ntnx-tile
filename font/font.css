@@ -3,11 +3,11 @@
 
 
 @font-face {
-    font-family: 'nutanix_softbold';
+    font-family: 'nutanix_soft';
     src: url('nutanixsoft-bold-webfont.woff2') format('woff2'),
          url('nutanixsoft-bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-weight: 700;
+    font-style: bold;
 
 }
 
@@ -15,11 +15,11 @@
 
 
 @font-face {
-    font-family: 'nutanix_softmedium';
+    font-family: 'nutanix_soft';
     src: url('nutanixsoft-medium-webfont.woff2') format('woff2'),
          url('nutanixsoft-medium-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-weight: 500;
+    font-style: medium;
 
 }
 
@@ -27,10 +27,10 @@
 
 
 @font-face {
-    font-family: 'nutanix_softregular';
+    font-family: 'nutanix_soft';
     src: url('nutanixsoft-regular-webfont.woff2') format('woff2'),
          url('nutanixsoft-regular-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
 
 }
@@ -39,11 +39,11 @@
 
 
 @font-face {
-    font-family: 'nutanix_softsemibold';
+    font-family: 'nutanix_soft';
     src: url('nutanixsoft-semibold-webfont.woff2') format('woff2'),
          url('nutanixsoft-semibold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-weight: 600;
+    font-style: semibold;
 
 }
 
@@ -51,10 +51,10 @@
 
 
 @font-face {
-    font-family: 'nutanix_softthin';
+    font-family: 'nutanix_soft';
     src: url('nutanixsoft-thin-webfont.woff2') format('woff2'),
          url('nutanixsoft-thin-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-weight: 300;
+    font-style: thin;
 
 }
